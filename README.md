@@ -59,7 +59,7 @@ Welcome to my GitHub! I am currently studying programming and building my skills
 
 - 🌐 **Portfolio:** [martinotin24.dev](https://martinotin24.dev)
 - 📧 **Email:** martiinotin24@outlook.com
-- 💼 **LinkedIn:** [Insert your LinkedIn profile link here](#)
+- 💼 **LinkedIn:** 
 
 <!-- Optional: Uncomment the line below and add your image URL to display a profile picture or banner -->
 <!-- <div align="center"><img src="YOUR_IMAGE_URL_HERE" width="400" alt="Martín Muñoz Profile"></div> -->
