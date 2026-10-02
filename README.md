@@ -12,7 +12,7 @@ Welcome to my GitHub! I am currently studying programming and building my skills
 - 🌐 Experienced in CMS development and multi-site architectures, having successfully built and customized **10+ WordPress websites**.
 - ☁️ I have a strong interest in cloud environments, having worked with AWS and DigitalOcean for my personal projects.
 - 💼 I bring strong adaptability and teamwork skills from my professional experience in logistics and customer service within Canada.
-- 🎶 Outside of code, I am a violinist with a Level 8 (RCM) certification, performing classical, jazz, and contemporary music. You can see my musical and business side at [martinviolinist.com](https://martinviolinist.com).
+- 🎶 Outside of code, I am a violinist with a Level 8 (RCM) certification, performing classical, jazz, and contemporary music. You can see my musical and business side at [martinviolinist.com](https://martinviolin.com).
 
 ---
 
