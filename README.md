@@ -42,9 +42,13 @@ Welcome to my GitHub! I am currently studying programming and building my skills
 
 * **[ScoreManager – Performance & Repertoire System](https://scores.martinviolin.com/)**  
   A Full-Stack web platform designed to centralize and optimize live musical performance logistics. It acts as a command center to organize digital sheet music, high-quality audio backing tracks, and event scheduling. The system manages versatile repertoires, ranging from classical and jazz to contemporary popular arrangements. Additionally, it features an integrated autonomous stage media player and automates PDF setlist generation, ensuring a seamless and professional experience for both live performances and client coordination.
+  USERNAME & PASSWORD FOR DEMO:
+  USERNAME: admin_violin
+  PASSWORD: admin_123
 
 * **[IEMI Quotes — Quote Management & Automation System](http://iemiquotes.zynerzy.company)**  
   A full-stack web platform designed to digitize and centralize the corporate sales workflow. The system securely manages a client database and automates the creation of detailed proformas. Its main feature is an interactive engine that instantly calculates prices, taxes, and totals, generating professional PDF commercial documents ready for download and distribution. Technically, the platform is secured by user authentication, backed by a RESTful API, and deployed in the cloud using a modern container-based architecture.
+   
 
 * **[GigManager – Full-Stack Business Management Platform](https://gigmanager.zynerzy.company/)**  
   A comprehensive full-stack business operations platform tailored for independent professionals and freelancers to streamline their daily workflows. The application features a secure, centralized dashboard that allows users to efficiently manage client directories, schedule upcoming gigs, generate commercial quotes, and track invoices and overall earnings. Built with a focus on seamless usability and strict data integrity, GigManager replaces scattered administrative tools with a single, responsive system, ensuring secure access and reliable transaction handling from end to end.
