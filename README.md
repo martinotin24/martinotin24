@@ -48,6 +48,7 @@ Welcome to my GitHub! I am currently studying programming and building my skills
 
 * **[IEMI Quotes — Quote Management & Automation System](http://iemiquotes.zynerzy.company)**  
   A full-stack web platform designed to digitize and centralize the corporate sales workflow. The system securely manages a client database and automates the creation of detailed proformas. Its main feature is an interactive engine that instantly calculates prices, taxes, and totals, generating professional PDF commercial documents ready for download and distribution. Technically, the platform is secured by user authentication, backed by a RESTful API, and deployed in the cloud using a modern container-based architecture.
+
    
 
 * **[GigManager – Full-Stack Business Management Platform](https://gigmanager.zynerzy.company/)**  
